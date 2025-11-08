@@ -1,9 +1,8 @@
 Barber Appointment Service
 
-Description:
 This is a learning project built with Spring MVC — a barber shop appointment system.
 The project works and performs its main function: users can create barber appointments, and the data is stored in a database using JdbcTemplate.
-Note: the project contains architectural issues, duplicated code, and non-ideal design choices. It was created for learning purposes and reflects my early experience with Spring MVC and database integration.
+the project contains architectural issues, duplicated code, and non-ideal design choices. It was created for learning purposes and reflects my early experience with Spring MVC and database integration.
 
 Features:
 - Create barber appointments through a web form
@@ -16,8 +15,9 @@ Technologies Used:
 - Spring MVC
 - Thymeleaf
 - Spring JDBC (JdbcTemplate)
-- PostgreSQL / MySQL
+- PostgreSQL
 - Maven
+- Apache Tomcat
 
 How to Run:
 1. Clone the repository: git clone https://github.com/TigranSar/barber-appointment-spring-mvc.git
